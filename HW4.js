@@ -7,11 +7,11 @@ let choice1 = document.querySelector("choice1");
 let choice2 = document.querySelector("choice2");
 
 choice1.addEventListener("click", () => {
-	img.src = "./Media/BearForest.jpg";
+	img.src = "./BearForest.jpg";
 })
 
 choice2.addEventListener("click", () => {
-	img.src = "./Media/BearWcone.jpg";
+	img.src = "./BearWcone.jpg";
 })
 
 //temp code//
